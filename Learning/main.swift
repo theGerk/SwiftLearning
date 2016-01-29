@@ -8,5 +8,9 @@
 
 import Foundation
 
-println("Hello, World!")
+var a = 3
+a = 5
+a++
+println(a)
 
+println("Hello")
